@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Exams section includes recitation quizzes and previous year exams along
+  with solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Recitations section includes working on example problems that are handed
+  out in lecture a week before the recitation section.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
